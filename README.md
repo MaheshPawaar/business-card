@@ -1,5 +1,7 @@
 # Business Card App
 
+Simple business card app UI. This project is made as part of [Android Basics in Compose](https://developer.android.com/courses/android-basics-compose/course) course by Google
+
 ### Prerequisites
 
 * Ability to create and run a project in Android Studio.
